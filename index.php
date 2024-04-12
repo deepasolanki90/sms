@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['submit'])){
-  $number=$_POST['number'];
+  $number='91'.$_POST['number'];
   $message=$_POST['message'];
     
 	// Account details
